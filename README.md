@@ -7,7 +7,7 @@ Repositorio del **Grupo 9** para el desarrollo del **Taller 1 de MLP**.
 - Integrante 2 - VICTOR ROJAS
 - Integrante 3 - KEVIN CUESTA
 - Integrante 4 - JUAN  SEBASTIAN MURCIA
-- Integrante 4 - JOHAN RAMIREZ
+- Integrante 5 - JOHAN RAMIREZ
 
 
 ## 📦 Entregables IA(PRIMER CORTE)
