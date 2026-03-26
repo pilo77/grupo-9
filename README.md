@@ -27,21 +27,6 @@ Puedes acceder al documento del taller en el siguiente enlace:
 #### Taller: Procesamiento del Lenguaje Natural (NLP)
 📘 [Ver Taller NLP Resuelto](./Taller_NLP_Resuelto.ipynb)
 
-Este taller incluye ejercicios de:
-
-- Limpieza y preprocesamiento de texto
-- Tokenización
-- Normalización
-- Eliminación de stopwords
-- Stemming y lematización
-- Análisis de frecuencia de palabras
-- Extracción de entidades nombradas (NER)
-- Similaridad entre textos
-- Pipeline de preprocesamiento
-- Análisis básico de sentimientos
-
-
-
 ## 📂 Estructura del repositorio
 
 - `Talle 1 MLP.pdf` → Documento correspondiente al taller del primer corte.
